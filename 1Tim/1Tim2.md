@@ -10,13 +10,13 @@
 
 4 <God>welcher will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit kommen. </God>
 
-5 Denn es ist ein Gott und ein Mittler zwischen Gott und den Menschen, der Mensch Christus Jesus, 
+5 <God>Denn es ist ein Gott und ein Mittler zwischen Gott und den Menschen, der Mensch Christus Jesus, </God>
 
-6 der sich selbst als Lösegeld für alle gegeben hat. [Das ist] das Zeugnis zur rechten Zeit, 
+6 <God>der sich selbst als Lösegeld für alle gegeben hat.</God> [Das ist] das Zeugnis zur rechten Zeit, 
 
 7 für das ich eingesetzt wurde als Verkündiger und Apostel — ich sage die Wahrheit in Christus und lüge nicht —, als Lehrer der Heiden im Glauben und in der Wahrheit. 
 
-8 So will ich nun, dass die Männer an jedem Ort beten, indem sie heilige Hände aufheben ohne Zorn und Zweifel.
+8 <green>So will ich nun, dass die Männer an jedem Ort beten, indem sie heilige Hände aufheben ohne Zorn und Zweifel.</green>
 
 9 Ebenso [will ich] auch, dass sich die Frauen in ehrbarem Anstand mit Schamhaftigkeit und Zucht schmücken, nicht mit Haarflechten oder Gold oder Perlen oder aufwendiger Kleidung, 
 
@@ -28,4 +28,4 @@
 
 14 Und Adam wurde nicht verführt, die Frau aber wurde verführt und geriet in Übertretung; 
 
-W15 sie soll aber [davor] bewahrt werden durch das Kindergebären, wenn sie bleiben im Glauben und in der Liebe und in der Heiligung samt der Zucht.
+15 sie soll aber [davor] bewahrt werden durch das Kindergebären, wenn sie bleiben im Glauben und in der Liebe und in der Heiligung samt der Zucht.
