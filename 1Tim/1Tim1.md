@@ -1,16 +1,20 @@
-@import "styles.md"
+@import "../styles.md"
 ## 1. Timotheus 1
 
+<a name="1"></a>
 1 Paulus, Apostel Jesu Christi nach dem Befehl Gottes, <God>unseres Retters, und des Herrn Jesus Christus</God>, der unsere Hoffnung ist,  
 
+<a name="2"></a>
 2 an Timotheus, [mein] echtes **Kind im Glauben**: <blue>Gnade, Barmherzigkeit, Friede</blue> [sei mit dir] von <God>Gott, unserem Vater, und Christus Jesus, unserem Herrn!</God>  
 
+<a name="3"></a>
 3 Ich habe dich ja bei meiner Abreise nach Mazedonien ermahnt, in Ephesus zu bleiben, dass du gewissen Leuten gebietest, <red>keine fremden Lehren zu verbreiten</red> 
 [Aufforderung](/tags/callToAction.md)
 
 4 <red> und sich auch nicht mit Legenden und endlosen Geschlechtsregistern zu beschäftigen, die mehr Streitfragen hervorbringen als göttliche Erbauung im Glauben; </red>  
 
 5 <green>das Endziel des Gebotes[1] aber ist Liebe aus reinem Herzen und gutem Gewissen und ungeheucheltem Glauben.</green>
+[Liebe](/tags/love.md)
 
 6 Davon sind einige abgeirrt und haben sich <red>unnützem Geschwätz zugewandt</red>;  
 

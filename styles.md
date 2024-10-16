@@ -23,4 +23,7 @@ red {
 gesetz {
   color: purple;
 }
+a {
+    font-size: 10px;
+  }
 </style>
