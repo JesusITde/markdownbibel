@@ -1,3 +1,4 @@
+<style>
 /* Gott, Jesus, Heiliger Geist */
 God {
   color: darkblue;
@@ -22,3 +23,4 @@ red {
 gesetz {
   color: purple;
 }
+</style>
