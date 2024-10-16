@@ -1,14 +1,22 @@
 <style>
-blue {
+<!-- Gott, Jesus, Heiliger Geist -->
+God {
   color: darkblue;
 }
 
-red {
+<!-- Prophetie und erfüllte Prophetie -->
+prophetie {
   color: red;
 }
 
+<!-- Zusagen, Ermutigendes -->
 green {
-  color: lightgreen;
+  color: darkgreen;
+}
+
+<!-- Ermahnendes -->
+red {
+  color: red;
 }
 </style>
 
@@ -17,16 +25,16 @@ green {
 
 ## 1. Timotheus 1
 
-1 Paulus, Apostel Jesu Christi nach dem Befehl Gottes, unseres Retters, und des Herrn Jesus Christus, der unsere Hoffnung ist,  
+1 Paulus, Apostel Jesu Christi nach dem Befehl Gottes, <God>unseres Retters, und des Herrn Jesus Christus</God>, der unsere Hoffnung ist,  
 
-2 an Timotheus, [mein] echtes **Kind im Glauben**: <blue>Gnade, Barmherzigkeit, Friede</blue> [sei mit dir] von Gott, unserem Vater, und Christus Jesus, unserem Herrn!  
+2 an Timotheus, [mein] echtes **Kind im Glauben**: <blue>Gnade, Barmherzigkeit, Friede</blue> [sei mit dir] von <God>Gott, unserem Vater, und Christus Jesus, unserem Herrn!</God>  
 
 ### Abwehr falscher Lehren  
 3 Ich habe dich ja bei meiner Abreise nach Mazedonien ermahnt, in Ephesus zu bleiben, dass du gewissen Leuten gebietest, keine fremden Lehren zu verbreiten  
 
 4 und sich auch nicht mit Legenden und endlosen Geschlechtsregistern zu beschäftigen, die mehr Streitfragen hervorbringen als göttliche Erbauung im Glauben;  
 
-5 das Endziel des Gebotes[1] aber ist Liebe aus reinem Herzen und gutem Gewissen und ungeheucheltem Glauben.  
+5 <green>das Endziel des Gebotes[1] aber ist Liebe aus reinem Herzen und gutem Gewissen und ungeheucheltem Glauben.</green>
 
 6 Davon sind einige abgeirrt und haben sich unnützem Geschwätz zugewandt;  
 
