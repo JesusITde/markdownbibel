@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="markdown.css">
 ## 1. Timotheus 1
 
 1 Paulus, Apostel Jesu Christi nach dem Befehl Gottes, <God>unseres Retters, und des Herrn Jesus Christus</God>, der unsere Hoffnung ist,  
