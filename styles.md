@@ -6,7 +6,7 @@ God {
 
 /* Prophetie und erfüllte Prophetie */
 prophetie {
-  color: red;
+  color: yellow;
 }
 
 /* Zusagen, Ermutigendes */
