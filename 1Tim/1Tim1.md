@@ -1,33 +1,4 @@
-<style>
-<!-- Gott, Jesus, Heiliger Geist -->
-God {
-  color: darkblue;
-}
-
-<!-- Prophetie und erfüllte Prophetie -->
-prophetie {
-  color: red;
-}
-
-<!-- Zusagen, Ermutigendes -->
-green {
-  color: darkgreen;
-}
-
-<!-- Ermahnendes -->
-red {
-  color: darkred;
-}
-
-<!-- Gesetz -->
-gesetz {
-  color: purple;
-}
-</style>
-
-
-
-
+<link rel="stylesheet" type="text/css" href="styles.css">
 ## 1. Timotheus 1
 
 1 Paulus, Apostel Jesu Christi nach dem Befehl Gottes, <God>unseres Retters, und des Herrn Jesus Christus</God>, der unsere Hoffnung ist,  
