@@ -1,10 +1,10 @@
 @import "../styles.md"
+<a name="top"></a>
+
 ## 1. Timotheus 1
 
-<a name="1"></a>
-1 Paulus, Apostel Jesu Christi nach dem Befehl Gottes, <God>unseres Retters, und des Herrn Jesus Christus</God>, der unsere Hoffnung ist,  
+1 Paulus, Apostel Jesu Christi nach dem Befehl Gottes, <God>unseres Retters, und des Herrn Jesus Christus</God>, der unsere Hoffnung ist,  
 
-<a name="2"></a>
 2 an Timotheus, [mein] echtes **Kind im Glauben**: <blue>Gnade, Barmherzigkeit, Friede</blue> [sei mit dir] von <God>Gott, unserem Vater, und Christus Jesus, unserem Herrn!</God>  
 
 <a name="3"></a>
@@ -13,7 +13,7 @@
 
 4 <red> und sich auch nicht mit Legenden und endlosen Geschlechtsregistern zu beschäftigen, die mehr Streitfragen hervorbringen als göttliche Erbauung im Glauben; </red>  
 
-5 <green>das Endziel des Gebotes[1] aber ist Liebe aus reinem Herzen und gutem Gewissen und ungeheucheltem Glauben.</green>
+5 <green>das Endziel des Gebotes[1](#1) aber ist Liebe aus reinem Herzen und gutem Gewissen und ungeheucheltem Glauben.</green>
 [Liebe](/tags/love.md)
 
 6 Davon sind einige abgeirrt und haben sich <red>unnützem Geschwätz zugewandt</red>;  
@@ -45,3 +45,9 @@
 19 indem du den Glauben und ein gutes Gewissen bewahrst. <red>Dieses haben einige von sich gestoßen und darum im Glauben Schiffbruch erlitten.</red>  
 
 20 <red>Zu ihnen gehören Hymenäus und Alexander, die ich dem Satan übergeben habe, damit sie gezüchtigt werden und nicht mehr lästern.</red>
+
+
+[Gehe nach oben](#top)
+
+<a name="1"></a>
+Anmerkung: ...
