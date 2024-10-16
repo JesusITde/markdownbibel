@@ -5,7 +5,6 @@
 
 2 an Timotheus, [mein] echtes **Kind im Glauben**: <blue>Gnade, Barmherzigkeit, Friede</blue> [sei mit dir] von <God>Gott, unserem Vater, und Christus Jesus, unserem Herrn!</God>  
 
-### Abwehr falscher Lehren  
 3 Ich habe dich ja bei meiner Abreise nach Mazedonien ermahnt, in Ephesus zu bleiben, dass du gewissen Leuten gebietest, <red>keine fremden Lehren zu verbreiten</red> 
 
 4 <red> und sich auch nicht mit Legenden und endlosen Geschlechtsregistern zu beschäftigen, die mehr Streitfragen hervorbringen als göttliche Erbauung im Glauben; </red>  
@@ -24,8 +23,6 @@
 
 11 nach dem <God>Evangelium der Herrlichkeit des glückseligen Gottes</God>, das mir anvertraut worden ist.  
 
-
-### Gottes Erbarmen im Leben des Paulus
 12 Und darum danke ich dem, der mir Kraft verliehen hat, <God>Christus Jesus, unserem Herrn,</God> <green>dass er mich treu erachtet und in den Dienst eingesetzt hat,</green>  
 
 13 der ich zuvor ein Lästerer und Verfolger und Frevler war. <green>Aber mir ist Erbarmung widerfahren, weil ich es unwissend im Unglauben getan habe.</green>  
@@ -38,8 +35,8 @@
 
 17 <God>Dem König der Ewigkeit aber, dem unvergänglichen, unsichtbaren, allein weisen Gott, sei Ehre und Ruhm von Ewigkeit zu Ewigkeit!</God> Amen.  
 
-
-### Ermutigung zum guten Kampf des Glaubens
 18 Dieses Gebot vertraue ich dir an, mein Sohn Timotheus, gemäß den früher über dich ergangenen Weissagungen, <green>damit du durch sie [gestärkt] den guten Kampf kämpfst, </green>  
+
 19 indem du den Glauben und ein gutes Gewissen bewahrst. <red>Dieses haben einige von sich gestoßen und darum im Glauben Schiffbruch erlitten.</red>  
+
 20 <red>Zu ihnen gehören Hymenäus und Alexander, die ich dem Satan übergeben habe, damit sie gezüchtigt werden und nicht mehr lästern.</red>
