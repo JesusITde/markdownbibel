@@ -1,8 +1,25 @@
+<style>
+blue {
+  color: lightblue;
+}
+
+red {
+  color: red;
+}
+
+green {
+  color: lightgreen;
+}
+</style>
+
+
+
+
 ## 1. Timotheus 1
 
 1 Paulus, Apostel Jesu Christi nach dem Befehl Gottes, unseres Retters, und des Herrn Jesus Christus, der unsere Hoffnung ist,  
 
-2 an Timotheus, [mein] echtes Kind im Glauben: Gnade, Barmherzigkeit, Friede [sei mit dir] von Gott, unserem Vater, und Christus Jesus, unserem Herrn!  
+2 an Timotheus, [mein] echtes **Kind im Glauben**: <blue>Gnade, Barmherzigkeit, Friede</blue> [sei mit dir] von Gott, unserem Vater, und Christus Jesus, unserem Herrn!  
 
 ### Abwehr falscher Lehren  
 3 Ich habe dich ja bei meiner Abreise nach Mazedonien ermahnt, in Ephesus zu bleiben, dass du gewissen Leuten gebietest, keine fremden Lehren zu verbreiten  
