@@ -6,6 +6,7 @@
 2 an Timotheus, [mein] echtes **Kind im Glauben**: <blue>Gnade, Barmherzigkeit, Friede</blue> [sei mit dir] von <God>Gott, unserem Vater, und Christus Jesus, unserem Herrn!</God>  
 
 3 Ich habe dich ja bei meiner Abreise nach Mazedonien ermahnt, in Ephesus zu bleiben, dass du gewissen Leuten gebietest, <red>keine fremden Lehren zu verbreiten</red> 
+[Aufforderung](/tags/callToAction.md)
 
 4 <red> und sich auch nicht mit Legenden und endlosen Geschlechtsregistern zu beschäftigen, die mehr Streitfragen hervorbringen als göttliche Erbauung im Glauben; </red>  
 
