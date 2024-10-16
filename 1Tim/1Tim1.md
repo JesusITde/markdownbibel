@@ -1,6 +1,6 @@
 <style>
 blue {
-  color: lightblue;
+  color: darkblue;
 }
 
 red {
